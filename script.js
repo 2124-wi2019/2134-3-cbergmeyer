@@ -1,3 +1,10 @@
+/*Craig Bergmeyer
+Script.js
+INFO 2134
+Thoendel
+March 28, 2020*/
+
+
 window.addEventListener('load', function(){
 
     
